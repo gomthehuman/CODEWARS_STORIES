@@ -1,0 +1,26 @@
+PSEUDO_1: calculator_app
+
+Pseudocode
+START
+  Declare variable x
+  Declare variable y
+  Declare variable z
+  Declare variable operand 
+  input x
+  input operand 
+  input y
+  if operand == "+": 
+    calculate x+y = z
+    print z
+  else if operand == "-":
+    calculate x-y = z
+    print z
+else if operand == "*"
+    calculate x*y = z
+    print z
+else if operand == "/"
+    calculate x/y = z
+    print z
+else 
+    print "undefined"
+END
